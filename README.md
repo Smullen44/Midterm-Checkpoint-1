@@ -44,6 +44,10 @@ Install Pygame using pip:
 
 "pip install pygame"
 
+or 
+
+"pip3 install pygame"
+
 To verify the installation run:
 
 "python -m pygame"
